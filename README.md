@@ -8,7 +8,7 @@ This project is the classic Snake game that I have carried out maintenance on fr
 ## Installation Guide
 
 1. Open a terminal at a location of your choice (this will be where you launch the game from).
-2. Type `git clone https://projects.cs.nott.ac.uk/psyhh6/dms-coursework-hilman-hazizi.git`
+2. Type `git clone https://github.com/KowalskiYukio/Uni-Project-Developing-Maintainable-Software.git`
 3. Press enter (you may have to enter your git credentials).
 4. Open IntelliJ IDEA, then click "Open Project" and navigate to where you cloned the project.
 5. Click on the folder named `DMS Coursework - Hilman Hazizi`. Be aware that this is **NOT** the same folder as `dms-coursework-hilman-hazizi`. Click "OK".
@@ -44,3 +44,4 @@ Composer: Daisuke Ishiwatari
 - GGFont_Strive Font  
 from Guilty Gear -STRIVE- by Arc System Works  
 Creator: ui
+
