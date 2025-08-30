@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.snake.dms_courseworkhilman_hazizi","l":"entity"},{"m":"com.snake.dms_courseworkhilman_hazizi","l":"main"},{"m":"com.snake.dms_courseworkhilman_hazizi","l":"media"}];updateSearchResults();
